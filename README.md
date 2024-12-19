@@ -3,4 +3,4 @@ system-design-primer
 
 ## Description
 
-*[URL Shortener] (URL_Shortener)
+* [URL Shortener](URL_Shortener)
